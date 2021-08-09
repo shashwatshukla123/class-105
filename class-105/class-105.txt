@@ -1,0 +1,9 @@
+\sigma	=	population standard deviation
+N	=	the size of the population
+x_i	=	each value from the population
+\mu	=	the population mean
+
+average is the center value of the dataset
+standard deviation is a measure how spread out datadset is
+it's finds out how much our data is spreading from centeral tendency (mean)
+by this we can find oyt weather the data is close to the average or it is spread out over a wide range
